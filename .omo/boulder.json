@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "active_work_id": "work-723ab254",
+  "works": {
+    "work-723ab254": {
+      "work_id": "work-723ab254",
+      "active_plan": "/run/media/fslong/media/01-Projects/纸焰/.omo/plans/修复系统提示过载.md",
+      "plan_name": "修复系统提示过载",
+      "status": "completed",
+      "started_at": "2026-05-28T15:59:30.090Z",
+      "updated_at": "2026-05-28T16:55:49.328Z",
+      "session_ids": [
+        "ses_197ce74dbffeMvzaBSzGSzsa0P",
+        "ses_1907fc472ffehIJ40ivxbYcli3"
+      ],
+      "session_origins": {
+        "ses_197ce74dbffeMvzaBSzGSzsa0P": "direct",
+        "ses_1907fc472ffehIJ40ivxbYcli3": "appended"
+      },
+      "agent": "atlas",
+      "task_sessions": {},
+      "ended_at": "2026-05-28T16:55:49.327Z",
+      "elapsed_ms": 3379237
+    }
+  },
+  "active_plan": "/run/media/fslong/media/01-Projects/纸焰/.omo/plans/修复系统提示过载.md",
+  "started_at": "2026-05-28T15:59:30.090Z",
+  "status": "completed",
+  "updated_at": "2026-05-28T16:55:49.328Z",
+  "session_ids": [
+    "ses_197ce74dbffeMvzaBSzGSzsa0P",
+    "ses_1907fc472ffehIJ40ivxbYcli3"
+  ],
+  "session_origins": {
+    "ses_197ce74dbffeMvzaBSzGSzsa0P": "direct",
+    "ses_1907fc472ffehIJ40ivxbYcli3": "appended"
+  },
+  "plan_name": "修复系统提示过载",
+  "task_sessions": {},
+  "agent": "atlas",
+  "ended_at": "2026-05-28T16:55:49.327Z",
+  "elapsed_ms": 3379237
+}
