@@ -1,43 +1,103 @@
 {
   "schema_version": 2,
-  "active_work_id": "work-723ab254",
+  "active_work_id": "work-ch11-micro",
   "works": {
-    "work-723ab254": {
-      "work_id": "work-723ab254",
-      "active_plan": "/run/media/fslong/media/01-Projects/纸焰/.omo/plans/修复系统提示过载.md",
-      "plan_name": "修复系统提示过载",
+    "work-ch11-micro": {
+      "work_id": "work-ch11-micro",
+      "active_plan": "/run/media/fslong/media/01-Projects/纸焰/.omo/plans/ch11-三处微调.md",
+      "plan_name": "ch11-三处微调",
       "status": "completed",
-      "started_at": "2026-05-28T15:59:30.090Z",
-      "updated_at": "2026-05-28T16:55:49.328Z",
+      "started_at": "2026-06-01T09:15:00.000Z",
+      "updated_at": "2026-06-03T15:08:25.921Z",
       "session_ids": [
-        "ses_197ce74dbffeMvzaBSzGSzsa0P",
-        "ses_1907fc472ffehIJ40ivxbYcli3"
+        "opencode:ses_17e2e063bffekKJaejpi51hUcS",
+        "opencode:ses_17d2d3336ffeUr3Xtx31lnZGMn",
+        "opencode:ses_17d2d1d17ffe01SxhcDIWTBk51",
+        "opencode:ses_17d2d03c4ffea5f94ffZVw7mGE",
+        "opencode:ses_17d2ce998ffei1Vy89C4tQGGlf",
+        "opencode:ses_17d2a6983ffe2a0HdQQ1bS9Pt9",
+        "opencode:ses_17d2a5304ffekYYLc459orSyW8",
+        "opencode:ses_17d2a3b6effecIellY7mJMpCHZ",
+        "opencode:ses_17d2a2675ffeDBln1HqUNEPW7Y",
+        "opencode:ses_17d2a0b0cffe2Nr6DgU5hBQdx4"
       ],
       "session_origins": {
-        "ses_197ce74dbffeMvzaBSzGSzsa0P": "direct",
-        "ses_1907fc472ffehIJ40ivxbYcli3": "appended"
+        "opencode:ses_17e2e063bffekKJaejpi51hUcS": "direct",
+        "opencode:ses_17d2d3336ffeUr3Xtx31lnZGMn": "appended",
+        "opencode:ses_17d2d1d17ffe01SxhcDIWTBk51": "appended",
+        "opencode:ses_17d2d03c4ffea5f94ffZVw7mGE": "appended",
+        "opencode:ses_17d2ce998ffei1Vy89C4tQGGlf": "appended",
+        "opencode:ses_17d2a6983ffe2a0HdQQ1bS9Pt9": "appended",
+        "opencode:ses_17d2a5304ffekYYLc459orSyW8": "appended",
+        "opencode:ses_17d2a3b6effecIellY7mJMpCHZ": "appended",
+        "opencode:ses_17d2a2675ffeDBln1HqUNEPW7Y": "appended",
+        "opencode:ses_17d2a0b0cffe2Nr6DgU5hBQdx4": "appended"
       },
       "agent": "atlas",
-      "task_sessions": {},
-      "ended_at": "2026-05-28T16:55:49.327Z",
-      "elapsed_ms": 3379237
+      "task_sessions": {
+        "todo:1": {
+          "task_key": "todo:1",
+          "task_label": "1",
+          "task_title": "**墨焰晶核首次在正文中亮相**——她碰墙时发现嵌在墙缝里的晶核碎屑，有人告诉她这是什么",
+          "session_id": "opencode:ses_171ff4a22ffeb80nxJzaw7Ge3o",
+          "agent": "Sisyphus-Junior",
+          "category": "deep",
+          "started_at": "2026-06-01T10:52:16.950Z",
+          "ended_at": "2026-06-03T15:08:25.921Z",
+          "elapsed_ms": 188168971,
+          "status": "completed",
+          "updated_at": "2026-06-03T15:08:25.921Z"
+        }
+      },
+      "ended_at": "2026-06-01T09:25:00.000Z",
+      "elapsed_ms": 600000
     }
   },
-  "active_plan": "/run/media/fslong/media/01-Projects/纸焰/.omo/plans/修复系统提示过载.md",
-  "started_at": "2026-05-28T15:59:30.090Z",
+  "active_plan": "/run/media/fslong/media/01-Projects/纸焰/.omo/plans/ch11-三处微调.md",
+  "plan_name": "ch11-三处微调",
   "status": "completed",
-  "updated_at": "2026-05-28T16:55:49.328Z",
+  "started_at": "2026-06-01T09:15:00.000Z",
+  "updated_at": "2026-06-03T15:08:25.921Z",
   "session_ids": [
-    "ses_197ce74dbffeMvzaBSzGSzsa0P",
-    "ses_1907fc472ffehIJ40ivxbYcli3"
+    "opencode:ses_17e2e063bffekKJaejpi51hUcS",
+    "opencode:ses_17d2d3336ffeUr3Xtx31lnZGMn",
+    "opencode:ses_17d2d1d17ffe01SxhcDIWTBk51",
+    "opencode:ses_17d2d03c4ffea5f94ffZVw7mGE",
+    "opencode:ses_17d2ce998ffei1Vy89C4tQGGlf",
+    "opencode:ses_17d2a6983ffe2a0HdQQ1bS9Pt9",
+    "opencode:ses_17d2a5304ffekYYLc459orSyW8",
+    "opencode:ses_17d2a3b6effecIellY7mJMpCHZ",
+    "opencode:ses_17d2a2675ffeDBln1HqUNEPW7Y",
+    "opencode:ses_17d2a0b0cffe2Nr6DgU5hBQdx4"
   ],
   "session_origins": {
-    "ses_197ce74dbffeMvzaBSzGSzsa0P": "direct",
-    "ses_1907fc472ffehIJ40ivxbYcli3": "appended"
+    "opencode:ses_17e2e063bffekKJaejpi51hUcS": "direct",
+    "opencode:ses_17d2d3336ffeUr3Xtx31lnZGMn": "appended",
+    "opencode:ses_17d2d1d17ffe01SxhcDIWTBk51": "appended",
+    "opencode:ses_17d2d03c4ffea5f94ffZVw7mGE": "appended",
+    "opencode:ses_17d2ce998ffei1Vy89C4tQGGlf": "appended",
+    "opencode:ses_17d2a6983ffe2a0HdQQ1bS9Pt9": "appended",
+    "opencode:ses_17d2a5304ffekYYLc459orSyW8": "appended",
+    "opencode:ses_17d2a3b6effecIellY7mJMpCHZ": "appended",
+    "opencode:ses_17d2a2675ffeDBln1HqUNEPW7Y": "appended",
+    "opencode:ses_17d2a0b0cffe2Nr6DgU5hBQdx4": "appended"
   },
-  "plan_name": "修复系统提示过载",
-  "task_sessions": {},
   "agent": "atlas",
-  "ended_at": "2026-05-28T16:55:49.327Z",
-  "elapsed_ms": 3379237
+  "task_sessions": {
+    "todo:1": {
+      "task_key": "todo:1",
+      "task_label": "1",
+      "task_title": "**墨焰晶核首次在正文中亮相**——她碰墙时发现嵌在墙缝里的晶核碎屑，有人告诉她这是什么",
+      "session_id": "opencode:ses_171ff4a22ffeb80nxJzaw7Ge3o",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "started_at": "2026-06-01T10:52:16.950Z",
+      "ended_at": "2026-06-03T15:08:25.921Z",
+      "elapsed_ms": 188168971,
+      "status": "completed",
+      "updated_at": "2026-06-03T15:08:25.921Z"
+    }
+  },
+  "ended_at": "2026-06-01T09:25:00.000Z",
+  "elapsed_ms": 600000
 }
